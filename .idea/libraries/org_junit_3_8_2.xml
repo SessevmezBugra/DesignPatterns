@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.junit-3.8.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.junit-3.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/org.junit-3.8.2.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/org.junit-3.8.2.jar!/" recursive="false" />
+  </library>
+</component>
